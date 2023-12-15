@@ -15,17 +15,17 @@ Splitting Dataset : Training = 70%, Validation = 20%, Testing = 10%
 * **Install Requirements** : `pip install -r requirements`
 * Lalu jalankan flask python : `App.py`
 
-
-
-## Web Deploployment
-
-**Web URL** : http://127.0.0.1:2000
+Project ini menggunakan **EfficientNetB3** sebagai model pre-train yang diambil menggunakan pustaka `tensorflow`.
 
 
 ---
-Project ini menggunakan **EfficientNetB3** sebagai model pre-train yang diambil menggunakan pustaka `tensorflow`.
 
 ## Local Development
+
+**Web URL** : http://127.0.0.1:2000
+
+**INPUT** **:** ![Image](Dev/Dev_Input.png)
+**OUTPUT** **:** ![Image](Dev/Dev_Output.png)
 
 ## Author
 Sakinah Aulia Rahmah Putri Adnan - 202010370311119
